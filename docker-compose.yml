@@ -2,6 +2,6 @@ version: '3'
 services:
   spacegame:
     build: .
-    scale: 3
+#   scale: 3
     ports:
      - "80"
