@@ -1,5 +1,9 @@
 # space-shooter
 
+$ git clone https://github.com/kapilsthakkar25/space-shooter
+
+$ cd  space-shooter
+
 ## build the image for gaming site
 $ docker build -t space-shooter:latest .
 
