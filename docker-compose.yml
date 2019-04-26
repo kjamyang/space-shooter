@@ -1,6 +1,7 @@
 version: '3'
 services:
-  sapcegame:
+  spacegame:
     build: .
+    scale: 3
     ports:
      - "80"
